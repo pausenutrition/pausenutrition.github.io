@@ -59,7 +59,7 @@ plugins:
 
 author:
   name   : "Pause Nutrition"
-  avatar : "/assets/images/bio-photo.jpg"
+  avatar : "/assets/images/logoPauseNutrition.png"
   bio    : "Bienvenue sur Pause Nutrition, un espace de partage."
   links:
     - label: "Website"
