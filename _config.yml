@@ -17,6 +17,8 @@ title: Pause Nutrition
 email: pause.nutrition@protonmail.com
 description: >- # this means to ignore newlines until "baseurl:"
 Bienvenue ! Cet endroit est le vôtre, un espace dédié au partage de conseils et de recettes pour des pauses nutrition qui font du bien.
+
+baseurl: "" 
 github_username: pausenutrition
 minimal_mistakes_skin: default
 search: true
