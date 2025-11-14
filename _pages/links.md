@@ -1,4 +1,7 @@
----- Liens
+---
+permalink: /links/
+title: "Liens"
+---
 
 ## Quelques sites fiables
 Une liste soigneusement filtrée ou vous pourrez trouvez des recommendations pour les adultes et enfants:
@@ -21,5 +24,3 @@ Here is a list of fun and educational resources suitable for families and childr
 
 * [Progamme malin](https://www.programme-malin.com/)
 * [Tableau Diversification alimentaire](https://www.mangerbouger.fr/content/show/1498/file/Tableau_diversification_alimentaire_jusqu%27a_3_ans.pdf)
-
-----
